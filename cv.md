@@ -1,8 +1,8 @@
-#**Serhii Klishyn**
+# **Serhii Klishyn**
 
 ---
 
-##**My Contact Information**
+## **My Contact Information**
 
 \*mob: +380504452598
 \*e-mail: serj90klishin@gmail.com
@@ -10,11 +10,11 @@
 
 ---
 
-##**About me**
+## **About me**
 
 I am 32 years old.I work as a process engineer in a design organization. My main goal in life is constant development, and learning programming is my next goal.
 
-##**Skills**
+## **Skills**
 
 \*HTML
 \*CSS
@@ -25,7 +25,7 @@ I am 32 years old.I work as a process engineer in a design organization. My main
 
 ---
 
-##**Code example**
+## **Code example**
 
 ```
 function multiply(a, b){
@@ -35,11 +35,11 @@ function multiply(a, b){
 
 ---
 
-##**Work experience**
+## **Work experience**
 
-## \*process engineer in pharmaseutical industry for 8 yers
+\*process engineer in pharmaseutical industry for 8 yers
 
-##**Languages**
+## **Languages**
 
 \*English - B1
 \*Ukranian - native
