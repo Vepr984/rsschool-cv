@@ -16,12 +16,12 @@
 
 ## **Skills**
 
-\*HTML
-\*CSS
-\*JavaScript (Fundamentals)
-\*Git (Fundamentals)
-\*Figma
-\*VSCode
+*HTML 1
+*CSS 2
+*JavaScript (Fundamentals) 3
+*Git (Fundamentals) 4
+*Figma 5
+*VSCode 6
 
 ---
 
@@ -37,12 +37,12 @@ function multiply(a, b){
 
 ## **Work experience**
 
-\*process engineer in pharmaseutical industry for 8 yers
+\*process engineer in pharmaseutical industry for 8 yers 1
 
 ## **Languages**
 
-\*English - B1
-\*Ukranian - native
-\*Russian - native
+*English - B1 1
+*Ukranian - native 2
+\*Russian - native 3
 
 ---
