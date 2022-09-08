@@ -14,6 +14,8 @@
 
 ## I am 32 years old.I work as a process engineer in a design organization. My main goal in life is constant development, and learning programming is my next goal.
 
+---
+
 ## **Skills**
 
 - HTML 1
@@ -37,7 +39,9 @@ function multiply(a, b){
 
 ## **Work experience**
 
-- process engineer in pharmaseutical industry for 8 yers 1
+process engineer in pharmaseutical industry for 8 yers
+
+---
 
 ## **Languages**
 
