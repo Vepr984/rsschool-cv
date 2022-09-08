@@ -4,9 +4,9 @@
 
 ## **My Contact Information**
 
-\*mob: +380504452598
-\*e-mail: serj90klishin@gmail.com
-\*discord: Serj\_(@Vepr984)
+- mob: +380504452598
+- e-mail: serj90klishin@gmail.com
+- discord: Serj\_(@Vepr984)
 
 ---
 
@@ -18,12 +18,12 @@
 
 ## **Skills**
 
-- HTML 1
-- CSS 2
-- JavaScript (Fundamentals) 3
-- Git (Fundamentals) 4
-- Figma 5
-- VSCode 6
+- HTML
+- CSS
+- JavaScript (Fundamentals)
+- Git (Fundamentals)
+- Figma
+- VSCode
 
 ---
 
@@ -45,8 +45,8 @@ process engineer in pharmaseutical industry for 8 yers
 
 ## **Languages**
 
-- English - B1 1
-- Ukranian - native 2
-- Russian - native 3
+- English - B1
+- Ukranian - native
+- Russian - native
 
 ---
